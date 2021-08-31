@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.kucng">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name="com.example.kucng.Tambah_admin_login"></activity>
+        <activity android:name="com.example.kucng.splashout" />
+        <activity android:name="com.example.kucng.Tampil_data_penyakit" />
+        <activity android:name="com.example.kucng.Penyakitt" />
+        <activity android:name="com.example.kucng.AdminEditPenyakit" />
+        <activity android:name="com.example.kucng.DataPenyakit" />
+        <activity android:name="com.example.kucng.Penyakit" />
+        <activity android:name="com.example.kucng.Wildcatt" />
+        <activity android:name="com.example.kucng.Tampilan_data_kucingbesar" />
+        <activity android:name="com.example.kucng.Petcatt" />
+        <activity android:name="com.example.kucng.Tampil_data_kucing" />
+        <activity android:name="com.example.kucng.Login" />
+        <activity android:name="com.example.kucng.AdminEditBesar" />
+        <activity android:name="com.example.kucng.DataKucingBesar" />
+        <activity android:name="com.example.kucng.KucingBesar" />
+        <activity android:name="com.example.kucng.AdminEdit" />
+        <activity android:name="com.example.kucng.DataKucing" />
+        <activity android:name="com.example.kucng.Kucing" />
+        <activity android:name="com.example.kucng.PilihanAdmin" />
+        <activity android:name="com.example.kucng.quis" />
+        <activity android:name="com.example.kucng.splash">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.example.kucng.jeniskucing" />
+        <activity android:name="com.example.kucng.kebiasaan" />
+        <activity android:name="com.example.kucng.bermain" />
+        <activity android:name="com.example.kucng.mandi" />
+        <activity android:name="com.example.kucng.caraperawatan" />
+        <activity android:name="com.example.kucng.perlengkapan" />
+        <activity android:name="com.example.kucng.panduanpemula" />
+        <activity android:name="com.example.kucng.Biokucing" />
+        <activity android:name="com.example.kucng.MainActivity2" />
+        <activity android:name="com.example.kucng.MainActivity" />
+    </application>
+
+</manifest>

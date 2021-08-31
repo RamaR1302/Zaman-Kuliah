@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "240435439407",
+    "firebase_url": "https://kucng-75cd7.firebaseio.com",
+    "project_id": "kucng-75cd7",
+    "storage_bucket": "kucng-75cd7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240435439407:android:6fb14874ce2aaeb573a3da",
+        "android_client_info": {
+          "package_name": "com.example.kucng"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "240435439407-7elkjlrrbs9obv4ebtvfk32ukhuod8ma.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByACWcxTeAE0y-z4xD2UOo6pqfhsuzFtI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "240435439407-7elkjlrrbs9obv4ebtvfk32ukhuod8ma.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
